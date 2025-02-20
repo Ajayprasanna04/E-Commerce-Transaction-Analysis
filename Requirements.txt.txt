@@ -1,0 +1,11 @@
+pip
+ipykernel
+seaborn
+matplotlib
+pandas
+numpy
+plotly
+nbformat
+altair
+plotnine
+scikit-learn
